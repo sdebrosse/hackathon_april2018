@@ -17,7 +17,7 @@
 
 ## Alexa Links
 * Amazon Developer Portal: https://developer.amazon.com/login.html 
-* Care Package: alexa.design/kingcounty
+* Care Package: https://alexa.design/kingcounty
 * Examples: https://github.com/alexa/skill-sample-nodejs-fact
 
 ## AWS Home Page:
