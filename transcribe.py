@@ -30,7 +30,7 @@ response = transcribe.start_transcription_job(
     LanguageCode='en-US',
     MediaFormat='mp4',
     Media={
-        'MediaFileUri': 'https://s3-us-west-2.amazonaws.com/debrosse-transcribe-demo/video/demo.mp4'
+        'MediaFileUri': 'https://s3-us-west-2.amazonaws.com/'+bucket_name+'/video/demo.mp4'
     },
     Settings={
         'ShowSpeakerLabels': True,
