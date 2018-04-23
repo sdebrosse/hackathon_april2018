@@ -17,8 +17,8 @@
 
 ## Alexa Links
 * Amazon Developer Portal: https://developer.amazon.com/login.html 
-* AWS Lambda (provides "back-end" for Skill): https://console.aws.amazon.com/lambda/home?region=us-east-1
-* Getting Started (Python): https://developer.amazon.com/alexa-skills-kit/alexa-skill-quick-start-tutorial
+* Care Package: alexa.design/kingcounty
+* Examples: https://github.com/alexa/skill-sample-nodejs-fact
 
 ## AWS Home Page:
 * https://aws.amazon.com/
