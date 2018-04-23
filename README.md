@@ -1,6 +1,6 @@
 # hackathon_april2018
-My name: Spencer DeBrosse
-Short link to this page: https://bit.ly/2K9kYce
+* My name: Spencer DeBrosse
+* Short link to this page: https://bit.ly/2K9kYce
 
 ## Developer Guides
 * Comprehend: https://docs.aws.amazon.com/comprehend/latest/dg/what-is.html
